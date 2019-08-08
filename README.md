@@ -1,10 +1,11 @@
 # beam-js-testnet
-PoC of bem.js (createAddr, balance and send tx)
+PoC of beam.js (createAddr, balance and send tx)
 
-pm2 start bemjs_service.js
+```pm2 start bemjs_service.js```
 
-then in browser"
+full api reference https://github.com/BeamMW/beam/wiki/Beam-wallet-protocol-API#create_address
 
+# use on dAPP side
 ```
 //create address
 rpcRequest = 
