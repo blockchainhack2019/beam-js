@@ -33,3 +33,7 @@ success: function(data)
 
 try to send txid from address of incorrect user 
 ![](https://screenshots.wpmix.net/chrome_5PBv1XvEBsvGdmbktY0oRyGih35LCp2V.png)
+
+
+TODO
+close all other methods
