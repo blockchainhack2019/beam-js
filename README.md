@@ -1,7 +1,7 @@
 # beam-js-testnet
 PoC of beam.js (createAddr, balance and send tx)
 
-```pm2 start bemjs_service.js```
+```pm2 start beamjs_service.js```
 
 full api reference https://github.com/BeamMW/beam/wiki/Beam-wallet-protocol-API#create_address
 
